@@ -1,0 +1,48 @@
+p {
+    margin-top: 10px;
+}
+
+#formCont {
+    padding: 30px;
+    margin-top: 5%;
+    margin-left: 35%;
+    margin-right: 35%;
+    width: 450px;
+    height: 450px;
+    border-radius: 4px;
+    align-items: center;
+    justify-content: center;
+}
+
+#passwordCont {
+    width: 250px;
+    height: 50px;
+}
+
+legend {
+    color: gray;
+}
+
+label {
+    color: gray;
+}
+
+#validationCustomUsername {
+    padding-right: 50px;
+}
+
+#commitLogin {
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.input-group mb-3 {
+    padding-right: 70px;
+}
+
+#linkRedefSenha {
+    margin-top: 10px;
+}
